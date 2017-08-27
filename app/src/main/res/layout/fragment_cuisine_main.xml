@@ -1,0 +1,33 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingLeft="@dimen/padding_medium"
+    android:paddingRight="@dimen/padding_medium"
+    android:paddingTop="@dimen/padding_medium"
+    android:paddingBottom="@dimen/padding_medium"
+    tools:context=".mainview.MainViewFragment1">
+
+
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/recyclerview_cuisine_names"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+
+    </android.support.v7.widget.RecyclerView>
+
+
+    <TextView
+        android:id="@+id/recyclerview_recipe_empty"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:fontFamily="sans-serif-condensed"
+        android:textAppearance="?android:textAppearanceLarge"
+        android:text="@string/empty_recipe_list"
+        android:visibility="gone"/>
+
+
+
+</FrameLayout>

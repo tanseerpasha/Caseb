@@ -1,0 +1,119 @@
+{
+  "cuisines" : [ {
+    "cuisinemore" : "MORE",
+    "cuisinename" : "cuisine1",
+    "id" : "1"
+  }, {
+    "cuisinemore" : "MORE",
+    "cuisinename" : "cuisine2",
+    "id" : "2"
+  }, {
+    "cuisinemore" : "MORE",
+    "cuisinename" : "cuisine3",
+    "id" : "3"
+  }, {
+    "cuisinemore" : "MORE",
+    "cuisinename" : "cuisine4",
+    "id" : "4"
+  } ],
+  "cuisine1" : [ {
+    "dishDeliveryTime" : "50 mins",
+    "dishName" : "one",
+    "dishPrice" : "100Rs",
+    "dishRatingNumber" : "3",
+    "dishType" : "Veg"
+  }, {
+    "dishDeliveryTime" : "45 mins",
+    "dishName" : "two",
+    "dishPrice" : "200Rs",
+    "dishRatingNumber" : "3.5",
+    "dishType" : "Veg"
+  }, {
+    "dishDeliveryTime" : "55 mins",
+    "dishName" : "three",
+    "dishPrice" : "300Rs",
+    "dishRatingNumber" : "4.0",
+    "dishType" : "Egg"
+  }, {
+    "dishDeliveryTime" : "55 mins",
+    "dishName" : "four",
+    "dishPrice" : "400Rs",
+    "dishRatingNumber" : "4.5",
+    "dishType" : "Non Veg"
+  } ],
+  "cuisine2" : [ {
+    "dishDeliveryTime" : "45 mins",
+    "dishName" : "five",
+    "dishPrice" : "150Rs",
+    "dishRatingNumber" : "3.5",
+    "dishType" : "Egg"
+  }, {
+    "dishDeliveryTime" : "45 mins",
+    "dishName" : "six",
+    "dishPrice" : "200Rs",
+    "dishRatingNumber" : "2.5",
+    "dishType" : "Veg"
+  }, {
+    "dishDeliveryTime" : "50 mins",
+    "dishName" : "seven",
+    "dishPrice" : "450Rs",
+    "dishRatingNumber" : "5.0",
+    "dishType" : "Non Veg"
+  }, {
+    "dishDeliveryTime" : "60 mins",
+    "dishName" : "eight",
+    "dishPrice" : "650Rs",
+    "dishRatingNumber" : "4.0",
+    "dishType" : "Non Veg"
+  } ],
+  "cuisine3" : [ {
+    "dishDeliveryTime" : "45 mins",
+    "dishName" : "nine",
+    "dishPrice" : "200Rs",
+    "dishRatingNumber" : "3.5",
+    "dishType" : "Egg"
+  }, {
+    "dishDeliveryTime" : "50 mins",
+    "dishName" : "ten",
+    "dishPrice" : "275Rs",
+    "dishRatingNumber" : "4.5",
+    "dishType" : "Veg"
+  }, {
+    "dishDeliveryTime" : "35 mins",
+    "dishName" : "eleven",
+    "dishPrice" : "400Rs",
+    "dishRatingNumber" : "2.0",
+    "dishType" : "Non Veg"
+  }, {
+    "dishDeliveryTime" : "45 mins",
+    "dishName" : "twelve",
+    "dishPrice" : "500Rs",
+    "dishRatingNumber" : "1.5",
+    "dishType" : "Non Veg"
+  } ],
+  "cuisine4" : [ {
+    "dishDeliveryTime" : "45 mins",
+    "dishName" : "thirteen",
+    "dishPrice" : "200Rs",
+    "dishRatingNumber" : "3",
+    "dishType" : "Veg"
+  }, {
+    "dishDeliveryTime" : "45 mins",
+    "dishName" : "fourteen",
+    "dishPrice" : "250Rs",
+    "dishRatingNumber" : "3.5",
+    "dishType" : "Veg"
+  }, {
+    "dishDeliveryTime" : "55 mins",
+    "dishName" : "fifteen",
+    "dishPrice" : "350Rs",
+    "dishRatingNumber" : "4.0",
+    "dishType" : "Non Veg"
+  }, {
+    "dishDeliveryTime" : "45 mins",
+    "dishName" : "sixteen",
+    "dishPrice" : "450Rs",
+    "dishRatingNumber" : "4.5",
+    "dishType" : "Non Veg"
+  } ]
+}

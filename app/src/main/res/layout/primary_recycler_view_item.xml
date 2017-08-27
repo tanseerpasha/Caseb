@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="8dp"
+    android:layout_margin="8dp"
+    android:background="#EEEEEE">
+
+    <TextView
+        android:layout_alignParentLeft="true"
+        android:id="@+id/primary_movie_genre"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:paddingTop="16dp"
+        android:paddingBottom="16dp"
+        android:text="Cusine"/>
+
+    <TextView
+        android:id="@+id/primary_movie_genre1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:paddingTop="16dp"
+        android:paddingBottom="16dp"
+        android:text="MORE"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true" />
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/secondary_recycler_view"
+        android:layout_gravity="center_horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:layout_margin="8dp"
+        android:layout_below="@+id/primary_movie_genre" />
+</RelativeLayout>
+

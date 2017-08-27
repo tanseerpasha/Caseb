@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "737581774291",
+    "firebase_url": "https://deliciousfoodies-dd273.firebaseio.com",
+    "project_id": "deliciousfoodies-dd273",
+    "storage_bucket": "deliciousfoodies-dd273.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:737581774291:android:5a11a2b9e11d4fae",
+        "android_client_info": {
+          "package_name": "com.example.tanseer.deliciousfoodies"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "737581774291-udjefsj85herpqmeefeus71qfkdqvrnt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tanseer.deliciousfoodies",
+            "certificate_hash": "99abd7d3eef80abe41c6abac717a523244ab0e3f"
+          }
+        },
+        {
+          "client_id": "737581774291-qb9jcu94cclbu20u5rhhabn0vnl7vksc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNdNzYHc7epn-rQm-nCE0SrRKEnGp-rE4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "737581774291-qb9jcu94cclbu20u5rhhabn0vnl7vksc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

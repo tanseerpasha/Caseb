@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Delicious Foodies</string>
+
+    <string name="content_authority">com.example.tanseer.deliciousfoodies</string>
+    <string name="empty_recipe_list">No Cuisine Information Available</string>
+</resources>
